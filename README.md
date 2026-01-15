@@ -50,7 +50,7 @@
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Custom HTTP Server** | C++, POSIX Threads, Sockets | High-performance multi-threaded server. Implements a thread pool, mutex locking, and handles concurrent client connections from scratch. |
-| **SkillSwap** | MERN Stack, Redux | A social platform for students to find hackathon teammates. Includes JWT auth and RESTful APIs. |
+| **SkillSwap** | MERN Stack | A social platform for students to find hackathon teammates. Includes JWT auth and RESTful APIs. |
 | **Machine Warfare** | Unity, C# | 3D Shooter with procedural enemy waves and raycast shooting mechanics. |
 | **Keep-Lite** | React, Node.js, Vercel | Secure note-taking app with token-based auth and CI/CD pipeline integration. |
 
