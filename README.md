@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=CricketFan18&layout=compact&theme=midnight-purple" alt="CricketFan18's Languages" />
+  <img src="https://github-readme-stats-gold-tau-71.vercel.app/api/top-langs/?username=vivek-0320&layout=compact&theme=midnight-purple" alt="vivek-0320's Languages" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=CricketFan18&color=orange&style=flat&label=Visitors" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=vivek-0320&color=orange&style=flat&label=Visitors" alt="Visitors" />
 </p>
